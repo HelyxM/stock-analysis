@@ -1,7 +1,6 @@
 # An Analysis of All Stock Values For Selected Years 2017 and 2018
 '''
 [VBA_Challenge](VBA_Challenge.zip)
-'''
 [green_stocks](green_stocks.zip)
 '''
 ## **Overview of Project**:
